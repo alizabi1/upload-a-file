@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.controller;
 
 import com.github.tomakehurst.wiremock.client.WireMock;
 import com.github.tomakehurst.wiremock.junit5.WireMockTest;
